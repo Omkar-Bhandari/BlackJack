@@ -51,7 +51,7 @@ function deal(){
         for (i=0;i<dealerImages.length;i++){
             dealerImages[i].remove();
         }
-        resetScore();   
+        resetScore();   //REset
     }
 }
 
